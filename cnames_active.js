@@ -1707,7 +1707,8 @@ var cnames_active = {
   "kaleidopixel": "fzxx.github.io/KaleidoPixel",
   "kali": "kali65536.github.io",
   "kalm": "fed135.github.io/kalm.github.io", // noCF? (don´t add this in a new PR)
-  "kampala": "javascriptkampala.github.io/kampala",
+  "kampala": "javascriptkampala.github.io/kampala", 
+  "kappa-psi-phi": "byrnviii.github.io/kappa-psi-phi", 
   "kanji": "eidoriantan.github.io/kanji.js",
   "karateblobs": "karatewumpus.github.io/karateblobs",
   "karl": "focused-bassi-cc0eff.netlify.app",
